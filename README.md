@@ -1,11 +1,12 @@
 ## Um clone do app Clubhouse
 
 ## Demonstration
-<img src="https://macmagazine.com.br/wp-content/uploads/2021/02/08-clubhouse-623x1260.png" alt="exemplo">
+![preview](./assets/preview.png)
 
 ## Techs
 - HTML
 - TailwindCss
+- Git e github
 
 ## Contato
 yignaicosd@Gmail.com
